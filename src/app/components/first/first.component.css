@@ -1,0 +1,15 @@
+
+div{
+  text-align: center;
+  background-color: blue;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  border: maroon solid;
+}
+
+h2,p{
+  color: whitesmoke;
+}

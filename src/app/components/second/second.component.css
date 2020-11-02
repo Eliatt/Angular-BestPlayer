@@ -1,0 +1,15 @@
+
+
+div{
+  text-align: center;
+  background-color: maroon;
+}
+
+
+h2,li{
+  color: whitesmoke;
+}
+
+ol{
+  display: inline-block;
+}
